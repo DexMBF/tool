@@ -1,0 +1,215 @@
+{
+    "navigationList": [
+        {
+            "id": 1,
+            "name": "交易所",
+            "links": [
+                {
+                    "url": "https://www.huobi.bo",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/huobi.png",
+                    "alt": "huobi",
+                    "name": "火币",
+                    "desc": "火币是全球领先的比特币交易平台，提供安全稳定的数字资产交易服务。用户可以在火币全球站体验一站式入金/交易/出金服务，查看比特币行情价格就来火币"
+                },
+                {
+                    "url": "https://www.binancezh.cz",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/binance.png",
+                    "alt": "binance",
+                    "name": "币安",
+                    "desc": "币安是全球领先的数字货币交易平台，提供比特币、莱特币、以太坊、BNB、USDT等主流数字货币交易"
+                },
+                {
+                    "url": "https://ouyi.top",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/oke.png",
+                    "alt": "oke",
+                    "name": "欧易",
+                    "desc": "欧易OKEx是全球领先的比特币交易平台，使用银行级别的SSL加密和冷存储等技术"
+                },
+                {
+                    "url": "https://www.gate.tv/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/gt.png",
+                    "alt": "gateIo",
+                    "name": "gateIo",
+                    "desc": "Gate.io 芝麻开门是全球领先的区块链数字资产交易平台"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "区块浏览器",
+            "links": [
+                {
+                    "url": "https://blockchair.com/bitcoin",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/browser/bitcoin.png",
+                    "alt": "bitcoin",
+                    "name": "bitcoin",
+                    "desc": "Bitcoin Explorer — Blockchair"
+                },
+                {
+                    "url": "https://cn.etherscan.com/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/browser/ethereum.png",
+                    "alt": "Ethereum",
+                    "name": "Ethereum",
+                    "desc": "Etherscan China Ethereum (ETH) Blockchain Explorer"
+                },
+                {
+                    "url": "https://bscscan.com/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/browser/binance.png",
+                    "alt": "Bsc",
+                    "name": "Bsc",
+                    "desc": "Binance Smart Chain Explorer"
+                },
+                {
+                    "url": "https://hecoinfo.com/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/browser/ht.png",
+                    "alt": "Heco",
+                    "name": "Heco",
+                    "desc": "HecoInfo (HT) Blockchain Explorer"
+                },
+                {
+                    "url": "https://tronscan.org/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/browser/tron.png",
+                    "alt": "tron",
+                    "name": "tron",
+                    "desc": "TRONSCAN | TRON BlockChain Explorer | 波场区块链浏览器"
+                },
+                {
+                    "url": "https://explorer.binance.org/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/browser/binance.png",
+                    "alt": "Binance Chain",
+                    "name": "Binance Chain",
+                    "desc": "Binance Chain Explorer"
+                },
+                {
+                    "url": "https://explorer.binance.org/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/browser/polkadot.png",
+                    "alt": "Polkadot",
+                    "name": "Polkadot",
+                    "desc": "Polkadot Chain Explorer"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "DEX交易所",
+            "links": [
+                {
+                    "url": "https://www.curve.fi/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/dex/curve.png",
+                    "alt": "Curve",
+                    "name": "Curve",
+                    "desc": "Curve是基于以太坊的去中心化稳定币交易池，其特点在于高效而低滑点的稳定币交易体验，以及为做市商提供低风险的手续费收入。"
+                },
+                {
+                    "url": "https://uniswap.org/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/dex/uniswap.png",
+                    "alt": "Uniswap",
+                    "name": "Uniswap",
+                    "desc": "Uniswap 是完全部署在以太坊链上的DEX平台"
+                },
+                {
+                    "url": "https://sushiswap.org/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/dex/sushiswap.png",
+                    "alt": "Sushiswap",
+                    "name": "Sushiswap",
+                    "desc": "SushiSwap是一个Uniswap的分叉，于8月27日上线。"
+                },
+                {
+                    "url": "https://pancakeswap.finance/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/dex/pancakeswap.png",
+                    "alt": "pancakeSwap",
+                    "name": "pancakeSwap",
+                    "desc": "PancakeSwap的目标是成为Binance智能链上的第一流动性提供者和创新游戏化农业机制的发源地。"
+                },
+                {
+                    "url": "https://mdex.me/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/dex/mdex.png",
+                    "alt": "Mdex",
+                    "name": "Mdex",
+                    "desc": "Mdex致力于打造火币生态链Heco上的集DEX、IMO、DAO为一体的DeFi平台"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "常用工具",
+            "links": [
+                {
+                    "url": "https://dex.guru/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/tools/guru.png",
+                    "alt": "dex.guru",
+                    "name": "ex.guru",
+                    "desc": "Dex.Guru"
+                },
+                {
+                    "url": "https://www.dextools.io/app/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/tools/dextools.png",
+                    "alt": "dextools",
+                    "name": "dextools",
+                    "desc": "用于 Uniswap 和 DEX 交易的 Ultimate Hub 和 Defi 应用程序。"
+                },
+                {
+                    "url": "https://metamask.io/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/tools/metamask.png",
+                    "alt": "metamask",
+                    "name": "metamask",
+                    "desc": "A crypto wallet & gateway to blockchain apps"
+                },
+                {
+                    "url": "https://app.tornado.cash/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/tools/tornado.png",
+                    "alt": "tornado.cash",
+                    "name": "tornado.cash",
+                    "desc": "非托管以太坊隐私解决方案。"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "入门文档",
+            "links": [
+                {
+                    "url": "https://web3js.readthedocs.io/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/docs/web3js.png",
+                    "alt": "web3.js",
+                    "name": "web3.js",
+                    "desc": "web3.js - Ethereum JavaScript API"
+                },
+                {
+                    "url": "https://docs.soliditylang.org/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/docs/web3js.png",
+                    "alt": "solidity",
+                    "name": "solidity",
+                    "desc": "Solidity — Solidity lang documentation"
+                },
+                {
+                    "url": "https://cn.developers.tron.network/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/docs/tron.png",
+                    "alt": "tron developer",
+                    "name": "tron dev",
+                    "desc": "The TRON Developer Hub"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "区块资讯",
+            "links": [
+                {
+                    "url": "https://chainnews.com/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/docs/lianxwen.png",
+                    "alt": "链闻",
+                    "name": "链闻",
+                    "desc": "前沿金融科技精英读物。"
+                },
+                {
+                    "url": "https://www.8btc.cn/",
+                    "img": "https://cdn.jsdelivr.net/gh/cointool-info/cdn@main/pic/navigation/docs/8btc.png",
+                    "alt": "巴比特",
+                    "name": "巴比特",
+                    "desc": "国内最早的比特币论坛和资讯网站。"
+                }
+            ]
+        }
+    ]
+}
